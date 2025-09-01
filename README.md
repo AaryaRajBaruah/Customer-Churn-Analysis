@@ -1,66 +1,76 @@
-📊 Churn Analysis Dashboard
+# 📊**Customer Churn Analysis Dashboard** 
+ 
 
-🚀 Project Overview
+---
 
-This project focuses on Customer Churn Analysis to help businesses understand why customers leave and what factors contribute to retention or churn. Using Power BI, I developed an interactive dashboard that provides insights into churn trends, customer demographics, and key metrics to improve decision-making.
+## 🚀 Project Overview  
 
-✅ Goal: Identify churn patterns and support retention strategies.
+The **Customer Churn Analysis Dashboard** helps businesses understand why customers leave, identify churn patterns, and provide actionable insights for retention strategies. Using **Power BI**, this interactive dashboard allows decision-makers to track key metrics, explore customer demographics, and uncover trends that directly impact customer loyalty.  
 
-✅ Approach: Data Cleaning → Visualization → KPI Tracking → Insights.
+**Objective:** Predict churn patterns and assist businesses in minimizing customer attrition.  
+**Workflow:** Data Collection → Cleaning & Preprocessing → Visualization → KPI Analysis → Insights  
 
-🔍 Key Features
+---
 
-✔ Interactive Power BI Dashboard with drill-downs and slicers
+## 🔍 Key Features  
 
-✔ Customer Segmentation based on demographics & services
+- **Interactive Power BI Dashboard** – Drill-downs, slicers, and dynamic visuals  
+- **Customer Segmentation** – Analyze churn by demographics, tenure, and services  
+- **Churn Analysis** – Track churn rate across multiple dimensions  
+- **Retention Insights** – Understand factors driving customer loyalty  
+- **Trend Analysis** – Identify patterns over time to make data-driven decisions  
 
-✔ Churn Rate Calculation and trend analysis
+---
 
-✔ Retention Insights to improve customer experience
+## 📈 KPIs Tracked  
 
-📈 KPIs Tracked
+- **Overall Churn Rate**  
+- **Churn by Gender**  
+- **Churn by Tenure & Contract Type**  
+- **Impact of Payment Method & Monthly Charges**  
+- **Customer Segmentation Insights**  
 
-Overall Churn Rate
+---
 
-Churn by Gender
+## 🛠 Tech Stack & Tools  
 
-Churn by Tenure & Contract Type
+| Tool / Technology | Purpose |
+|------------------|---------|
+| **Power BI**      | Data visualization & interactive dashboards |
+| **Excel**         | Data cleaning, preprocessing, and exploratory analysis |
+| **DAX**           | Custom measures, calculations, and KPI tracking |
 
-Payment Method & Monthly Charges Impact
+---
 
-🛠 Tech Stack & Tools
+## 📷 Dashboard Preview  
 
-Power BI – Data Visualization
-
-Excel – Data Cleaning & Preprocessing
-
-DAX – Custom Measures & Calculations
-
-📷 Dashboard Preview
-<img width="1367" height="766" alt="Screenshot 2025-09-01 014131" src="https://github.com/user-attachments/assets/c4e4739a-da20-4981-9a67-044169dbaca2" />
+<img width="1367" height="766" alt="dashboard" src="https://github.com/user-attachments/assets/2560833a-6f8a-421e-8054-6baaa2609d6d" />
 
 
 
-✅ Key Insights from the Analysis
+---
 
-Customers with month-to-month contracts are more likely to churn
+## ✅ Key Insights  
 
-Higher monthly charges lead to increased churn probability
+- Customers on **month-to-month contracts** have the highest churn risk  
+- **Higher monthly charges** correlate with increased churn probability  
+- Customers using **automatic payment methods** show better retention  
+- Segmentation by demographics highlights high-risk groups for targeted retention  
 
-Customers on automatic payment methods show better retention
+---
 
-📌 Business Impact
+## 📌 Business Impact  
 
-By leveraging this dashboard, businesses can:
+This dashboard allows businesses to:  
 
-✔ Identify high-risk customers
+- ✅ Identify high-risk customers before they churn  
+- ✅ Design **personalized retention strategies**  
+- ✅ Optimize customer experience and improve loyalty  
+- ✅ Make **data-driven strategic decisions**  
 
-✔ Design personalized retention strategies
 
-✔ Improve customer satisfaction and loyalty
+---
 
-👤 About Me
+## ⭐ Support & Feedback  
 
-Hi, I’m Aarya Raj Baruah, passionate about data analytics & visualization. I love uncovering insights from data and presenting them in a visually impactful way to drive better decisions.
-
-⭐ If you like this project, don’t forget to star the repository!
+If you like this project, please **star this repository**! Your support motivates me to create more impactful analytics projects.  
